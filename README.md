@@ -34,7 +34,7 @@ All tools and datasets used are open-source and free.
 - GIS-ready project file (.qgz)
 - Exported map layout with legend, scale bar, and north arrow
 
-## 📌 **Download the final release of the Camera Trap Analysis project:** [v1.0 – Camera Trap Spatial Distribution Map — QGIS](https://github.com/Ankanhalder2000/GIS-Camera-Trap-Spatial-Distribution/releases/tag/v1.0)
+## 📌 **Download the final release of the GIS Camera Trap Spatial Distribution project:** [v1.0 – Camera Trap Spatial Distribution Map — QGIS](https://github.com/Ankanhalder2000/GIS-Camera-Trap-Spatial-Distribution/releases/tag/v1.0)
 
 
 
