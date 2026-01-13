@@ -37,13 +37,18 @@ All tools and datasets used are open-source and free.
 ## 📌 **Download the final release of the Camera Trap Analysis project:** [v1.0 – Camera Trap Spatial Distribution Map — QGIS](https://github.com/Ankanhalder2000/GIS-Camera-Trap-Spatial-Distribution/releases/tag/v1.0)
 
 
+
+
 > Notes on Data Visualization : The camera trap points show strong clustering along a linear feature.
 This reflects the structure of the original sampling design and is intentionally preserved
 to maintain data integrity.
 
+
+
 Related Project:
 Python-based Camera Trap Data Analysis:
 🔗 https://github.com/Ankanhalder2000/camera-trap-data-analysis
+
 
 ## Author
 **Ankan Halder**  
