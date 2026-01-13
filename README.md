@@ -1,4 +1,4 @@
-# Camera Trap Spatial Distribution Mapping (GIS)
+# Camera Trap Spatial Distribution Mapping (QGIS)
 
 ## Project Overview
 This project presents a GIS-based spatial visualization of camera trap observations.
