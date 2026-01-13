@@ -16,7 +16,7 @@ The project is designed as a continuation of a Python-based data cleaning and an
 ## Data Source
 The spatial point data used in this project was generated and cleaned in:
 
-**Python Project 1 — Camera Trap Data Analysis**  
+**Python Project  — Camera Trap Data Analysis**  
 🔗 https://github.com/Ankanhalder2000/camera-trap-data-analysis
 
 Only cleaned and GIS-ready CSV files were used for mapping.
